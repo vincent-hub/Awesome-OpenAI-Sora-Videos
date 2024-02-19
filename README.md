@@ -33,19 +33,27 @@ https://cdn.openai.com/sora/videos/man-on-the-cloud.mp4
 Prompt: Historical footage of California during the gold rush.
 https://cdn.openai.com/sora/videos/gold-rush.mp4
 
+Prompt: A close up view of a glass sphere that has a zen garden within it. There is a small dwarf in the sphere who is raking the zen garden and creating patterns in the sand.
 https://cdn.openai.com/sora/videos/zen-garden-gnome.mp4
 
+Prompt: Extreme close up of a 24 year old woman’s eye blinking, standing in Marrakech during magic hour, cinematic film shot in 70mm, depth of field, vivid colors, cinematic
 https://cdn.openai.com/sora/videos/closeup-of-womans-eye.mp4
 
+Prompt: A cartoon kangaroo disco dances.
 https://cdn.openai.com/sora/videos/dancing-kangaroo.mp4
 
+Prompt: A beautiful homemade video showing the people of Lagos, Nigeria in the year 2056. Shot with a mobile phone camera.
 https://cdn.openai.com/sora/videos/lagos.mp4
 
+Prompt: A petri dish with a bamboo forest growing within it that has tiny red pandas running around.
 https://cdn.openai.com/sora/videos/petri-dish-pandas.mp4
 
+Prompt: The camera rotates around a large stack of vintage televisions all showing different programs — 1950s sci-fi movies, horror movies, news, static, a 1970s sitcom, etc, set inside a large New York museum gallery.
 https://cdn.openai.com/sora/videos/stack-of-tvs.mp4
 
+Prompt: 3D animation of a small, round, fluffy creature with big, expressive eyes explores a vibrant, enchanted forest. The creature, a whimsical blend of a rabbit and a squirrel, has soft blue fur and a bushy, striped tail. It hops along a sparkling stream, its eyes wide with wonder. The forest is alive with magical elements: flowers that glow and change colors, trees with leaves in shades of purple and silver, and small floating lights that resemble fireflies. The creature stops to interact playfully with a group of tiny, fairy-like beings dancing around a mushroom ring. The creature looks up in awe at a large, glowing tree that seems to be the heart of the forest.
 https://cdn.openai.com/sora/videos/big-eyed-fluff-ball.mp4
+
 
 https://cdn.openai.com/sora/videos/suv-in-the-dust.mp4
 
