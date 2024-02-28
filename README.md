@@ -39,7 +39,7 @@ https://twitter.com/i/status/1761540135622193386
 
 [OpenAI (@openai) Official | TikTok](https://www.tiktok.com/@openai)
 
-# Videos from X (@_tim_brooks, @billpeeb, @model_mechanic)
+# Videos from X (@sama, @_tim_brooks, @billpeeb, @model_mechanic)
 
 Prompt："The camera lowers and widens to a grand panoramic view overlooking the beautiful ocean and the historical buildings along the a stunning coastal picturesque town perched on the cliffs..."  
 https://twitter.com/i/status/1758958132615619005
@@ -76,54 +76,53 @@ https://twitter.com/i/status/1759240084342059260
 
 # Videos from OpenAI Official Website
 
-Prompt: Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow covered trees and dramatic snow capped mountains in the distance, mid afternoon light with wispy clouds and a sun high in the distance creates a warm glow, the low camera view is stunning capturing the large furry mammal with beautiful photography, depth of field.
+Prompt: Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow covered trees and dramatic snow capped mountains in the distance, mid afternoon light with wispy clouds and a sun high in the distance creates a warm glow, the low camera view is stunning capturing the large furry mammal with beautiful photography, depth of field.  
 https://cdn.openai.com/sora/videos/wooly-mammoth.mp4
 
-Prompt: A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.
+Prompt: A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.  
 https://cdn.openai.com/sora/videos/mitten-astronaut.mp4
 
-Prompt: Drone view of waves crashing against the rugged cliffs along Big Sur’s garay point beach. The crashing blue waters create white-tipped waves, while the golden light of the setting sun illuminates the rocky shore. A small island with a lighthouse sits in the distance, and green shrubbery covers the cliff’s edge. The steep drop from the road down to the beach is a dramatic feat, with the cliff’s edges jutting out over the sea. This is a view that captures the raw beauty of the coast and the rugged landscape of the Pacific Coast Highway.
+Prompt: Drone view of waves crashing against the rugged cliffs along Big Sur’s garay point beach. The crashing blue waters create white-tipped waves, while the golden light of the setting sun illuminates the rocky shore. A small island with a lighthouse sits in the distance, and green shrubbery covers the cliff’s edge. The steep drop from the road down to the beach is a dramatic feat, with the cliff’s edges jutting out over the sea. This is a view that captures the raw beauty of the coast and the rugged landscape of the Pacific Coast Highway.  
 https://cdn.openai.com/sora/videos/big-sur.mp4
 
-Prompt: Animated scene features a close-up of a short fluffy monster kneeling beside a melting red candle. The art style is 3D and realistic, with a focus on lighting and texture. The mood of the painting is one of wonder and curiosity, as the monster gazes at the flame with wide eyes and open mouth. Its pose and expression convey a sense of innocence and playfulness, as if it is exploring the world around it for the first time. The use of warm colors and dramatic lighting further enhances the cozy atmosphere of the image.
+Prompt: Animated scene features a close-up of a short fluffy monster kneeling beside a melting red candle. The art style is 3D and realistic, with a focus on lighting and texture. The mood of the painting is one of wonder and curiosity, as the monster gazes at the flame with wide eyes and open mouth. Its pose and expression convey a sense of innocence and playfulness, as if it is exploring the world around it for the first time. The use of warm colors and dramatic lighting further enhances the cozy atmosphere of the image.  
 https://cdn.openai.com/sora/videos/monster-with-melting-candle.mp4
 
-Prompt: A gorgeously rendered papercraft world of a coral reef, rife with colorful fish and sea creatures.
+Prompt: A gorgeously rendered papercraft world of a coral reef, rife with colorful fish and sea creatures.  
 https://cdn.openai.com/sora/videos/origami-undersea.mp4
 
-Prompt: This close-up shot of a Victoria crowned pigeon showcases its striking blue plumage and red chest. Its crest is made of delicate, lacy feathers, while its eye is a striking red color. The bird’s head is tilted slightly to the side, giving the impression of it looking regal and majestic. The background is blurred, drawing attention to the bird’s striking appearance.
+Prompt: This close-up shot of a Victoria crowned pigeon showcases its striking blue plumage and red chest. Its crest is made of delicate, lacy feathers, while its eye is a striking red color. The bird’s head is tilted slightly to the side, giving the impression of it looking regal and majestic. The background is blurred, drawing attention to the bird’s striking appearance.  
 https://cdn.openai.com/sora/videos/victoria-crowned-pigeon.mp4
 
-Prompt: Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee.
+Prompt: Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee.  
 https://cdn.openai.com/sora/videos/ships-in-coffee.mp4
 
-Prompt: A young man at his 20s is sitting on a piece of cloud in the sky, reading a book.
+Prompt: A young man at his 20s is sitting on a piece of cloud in the sky, reading a book.  
 https://cdn.openai.com/sora/videos/man-on-the-cloud.mp4
 
-Prompt: Historical footage of California during the gold rush.
+Prompt: Historical footage of California during the gold rush.  
 https://cdn.openai.com/sora/videos/gold-rush.mp4
 
-Prompt: A close up view of a glass sphere that has a zen garden within it. There is a small dwarf in the sphere who is raking the zen garden and creating patterns in the sand.
+Prompt: A close up view of a glass sphere that has a zen garden within it. There is a small dwarf in the sphere who is raking the zen garden and creating patterns in the sand.  
 https://cdn.openai.com/sora/videos/zen-garden-gnome.mp4
 
-Prompt: Extreme close up of a 24 year old woman’s eye blinking, standing in Marrakech during magic hour, cinematic film shot in 70mm, depth of field, vivid colors, cinematic
+Prompt: Extreme close up of a 24 year old woman’s eye blinking, standing in Marrakech during magic hour, cinematic film shot in 70mm, depth of field, vivid colors, cinematic  
 https://cdn.openai.com/sora/videos/closeup-of-womans-eye.mp4
 
-Prompt: A cartoon kangaroo disco dances.
+Prompt: A cartoon kangaroo disco dances.  
 https://cdn.openai.com/sora/videos/dancing-kangaroo.mp4
 
-Prompt: A beautiful homemade video showing the people of Lagos, Nigeria in the year 2056. Shot with a mobile phone camera.
+Prompt: A beautiful homemade video showing the people of Lagos, Nigeria in the year 2056. Shot with a mobile phone camera.  
 https://cdn.openai.com/sora/videos/lagos.mp4
 
-Prompt: A petri dish with a bamboo forest growing within it that has tiny red pandas running around.
+Prompt: A petri dish with a bamboo forest growing within it that has tiny red pandas running around.  
 https://cdn.openai.com/sora/videos/petri-dish-pandas.mp4
 
-Prompt: The camera rotates around a large stack of vintage televisions all showing different programs — 1950s sci-fi movies, horror movies, news, static, a 1970s sitcom, etc, set inside a large New York museum gallery.
+Prompt: The camera rotates around a large stack of vintage televisions all showing different programs — 1950s sci-fi movies, horror movies, news, static, a 1970s sitcom, etc, set inside a large New York museum gallery.  
 https://cdn.openai.com/sora/videos/stack-of-tvs.mp4
 
-Prompt: 3D animation of a small, round, fluffy creature with big, expressive eyes explores a vibrant, enchanted forest. The creature, a whimsical blend of a rabbit and a squirrel, has soft blue fur and a bushy, striped tail. It hops along a sparkling stream, its eyes wide with wonder. The forest is alive with magical elements: flowers that glow and change colors, trees with leaves in shades of purple and silver, and small floating lights that resemble fireflies. The creature stops to interact playfully with a group of tiny, fairy-like beings dancing around a mushroom ring. The creature looks up in awe at a large, glowing tree that seems to be the heart of the forest.
+Prompt: 3D animation of a small, round, fluffy creature with big, expressive eyes explores a vibrant, enchanted forest. The creature, a whimsical blend of a rabbit and a squirrel, has soft blue fur and a bushy, striped tail. It hops along a sparkling stream, its eyes wide with wonder. The forest is alive with magical elements: flowers that glow and change colors, trees with leaves in shades of purple and silver, and small floating lights that resemble fireflies. The creature stops to interact playfully with a group of tiny, fairy-like beings dancing around a mushroom ring. The creature looks up in awe at a large, glowing tree that seems to be the heart of the forest.  
 https://cdn.openai.com/sora/videos/big-eyed-fluff-ball.mp4
-
 
 https://cdn.openai.com/sora/videos/suv-in-the-dust.mp4
 
