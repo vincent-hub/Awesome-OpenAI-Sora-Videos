@@ -46,7 +46,7 @@ Prompt:
 Link:  
 https://twitter.com/i/status/1761540135622193386  
 
-# Learn prompting to Sora
+# Learn to prompt Sora
 ## Prompting with text
 An example of prompt structure from OpenAI:  
 **an adorable kangaroo**  
