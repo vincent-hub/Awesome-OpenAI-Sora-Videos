@@ -56,8 +56,7 @@ taking a pleasant stroll in
 **Mumbai, India**  
 during  
 **a beautiful sunset**  
-Link:  
-https://cdn.openai.com/tmp/s/an-adorable-kangaroo-wearing-a-green-dress-and-a-sun-hat-taking-a-pleasant-stroll-in-Mumbai-India-during-a-beautiful-sunset.mp4
+[Watch the video](https://cdn.openai.com/tmp/s/an-adorable-kangaroo-wearing-a-green-dress-and-a-sun-hat-taking-a-pleasant-stroll-in-Mumbai-India-during-a-beautiful-sunset.mp4)
 # Videos from TikTok (@openai)
 [OpenAI (@openai) Official | TikTok](https://www.tiktok.com/@openai)
 
