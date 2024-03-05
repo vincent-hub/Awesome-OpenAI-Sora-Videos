@@ -23,27 +23,27 @@ Prompt: “an older man with gray hair and glasses devours a delicious cheese bu
 
 Prompt:  
 A super car driving through city streets at night with heavy rain everywhere, shot from behind the car as it drives  
-Link:  
+  
 [Watch the video](https://www.tiktok.com/@openai/video/7340532036320365866?is_from_webapp=1&sender_device=pc&web_id=7294566152997996075)
 
 Prompt:  
 cat in glasses in a 1960s spy movie  
-Link:  
+  
 [Watch the video](https://twitter.com/i/status/1761443473218240558)
 
 Prompt:  
 “A surreal scene unfolds as a giant, translucent jellyfish floats gracefully through a deserted cityscape at dusk. The scene is shot on 35mm film.”  
-Link:  
+  
 [Watch the video](https://twitter.com/i/status/1761450864697618524)
 
 Prompt:  
 “a brown and white border collie stands on a skateboard, wearing sunglasses”  
-Link:  
+  
 [Watch the video](https://twitter.com/i/status/1761488317915541847)
 
 Prompt:  
 “a small chubby Pug dog in goggles is sitting on a stool next to an old motorcycle”  
-Link:  
+  
 [Watch the video](https://twitter.com/i/status/1761540135622193386)  
 
 # Learn to prompt Sora
